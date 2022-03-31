@@ -33,7 +33,7 @@ You might need to set AWS keys in your local development machine.
 </div>
 
 <div style='float:left; padding:60px'>
-    <img src="images/Postman.png" width=500>
+    <img src="images/Postman1.png" width=500>
 </div>
 
 
